@@ -118,6 +118,7 @@ public class Logic {
                 break;
             }
         }
+
         return result;
     }
 }
